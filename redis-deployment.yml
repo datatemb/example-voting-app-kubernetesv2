@@ -15,7 +15,7 @@ spec:
     metadata:
       name: redis-pod
       labels:
-         name: redis-pod
+        name: redis-pod
         app: demo-voting-app
 
     spec: 
